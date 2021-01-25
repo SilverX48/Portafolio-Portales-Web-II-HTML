@@ -1,0 +1,37 @@
+body{
+    background-image: url('/img/wp2763910.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+.fondo{
+    border: solid #fff;
+    background-color: rgba(0,0,0, 0.6);
+}
+
+h2.card-title{
+    font-size:1.5rem;
+  }
+
+.nav-link {
+    color: #fff;
+    border-bottom: 0.25rem solid rgba(255, 255, 255, 0.0);
+    transition: border-bottom 0.5s;
+ }
+          
+.nav-link:hover {
+    color: #fff;
+    border-bottom: 0.25rem solid rgba(255, 255, 255, 0.7);
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
